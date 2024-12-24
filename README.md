@@ -6,4 +6,4 @@
 - ✨ This Git: You can find related and unrelated stuff popping up in this profie, cause I keep learning and puslishing stuff often :)
                "my_local_repo" has all the projects that I create during my free time.
 
-****📫 | Linkedin: linkedin/in/stejareddy | Call: +1 (403)431-7999 | Whatsapp: +91 8985354617 |****
+****📫 For collaboration or queries | Linkedin: linkedin/in/stejareddy | ****
