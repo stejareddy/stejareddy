@@ -1,3 +1,4 @@
+*****I AM CURRENTLY OPEN TO WORK (REMOTE|HYBRID|INOFFICE|COLLABORATIONS)*****
 - 👋 Hi, I’m Mr.Teja Reddy ; Call me 'TJ'
 - 👀 I’m interested in creating new things
 - 🌱 I’m currently learning ML Ops & working on Azure certifications
