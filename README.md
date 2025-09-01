@@ -1,6 +1,6 @@
 *****I AM CURRENTLY OPEN TO WORK (REMOTE|HYBRID|INOFFICE|COLLABORATIONS)*****
 - 👋 Hi, I’m Mr.Teja Reddy ; Call me 'TJ'
-- 👀 I’m interested in creating new things
+- 👀 I’m a Power Apps developer and Azure devops Engineer. 
 - 🌱 I’m currently learning ML Ops & working on Azure certifications
 - 😄 Pronouns: He/Him
 - ⚡ My Moto : If it’s not automated, is it even real?
